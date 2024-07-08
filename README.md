@@ -1,5 +1,6 @@
 # Mini-For-Facebook-App-Testing - Tania Jaswal
 
+**DISCLAIMER: For Better Readability, Please Download The PDF** 
 
 ## Overview
 The penetration testing of Mini for Facebook was conducted within the Android environment to comprehensively assess its security posture. Utilizing methodologies outlined in the OWASP Mobile Application Security Verification Standard (MASVS), our analysis aimed to identify vulnerabilities that could compromise user data and overall system integrity. The findings presented in this report offer a detailed examination of Mini for Facebook's security across various categories, revealing both strengths and weaknesses in its security measures. These insights provide valuable guidance for enhancing user privacy and data protection within the application.
